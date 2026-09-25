@@ -8,4 +8,11 @@ this project to learn git
 * git commit "to send the changes to local area"
 * git branch "to get all branches you work on"
 * git remote -v "to get all remote"
-* git push remoteName branchName 
+* git push remoteName branchName
+
+* git config --list "get configrations"
+* git config --unset ConfigThing "delete anything from config"
+* git config --global --edit "open config page in editor"
+
+* create Public Key
+* 
